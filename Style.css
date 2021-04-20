@@ -1,0 +1,30 @@
+.body{
+    padding: 20px;
+    background: grey;
+    border-radius: 5px;
+}
+.header{
+    background: #E20074;
+    font-weight: 900;
+    font-size: larger;
+}
+.img{
+    width: 266px;
+    height: 332.5px;
+    margin: auto;
+    display: block;
+    /*background-repeat: no-repeat;
+    background-size: contain;*/
+}
+.bar{
+    width: 100%;
+    height: 30pt;
+    background: #E20074;
+    padding: 5px;
+    padding-left: 10px;
+    color: white;
+}
+.like{
+    float: right;
+    
+}
