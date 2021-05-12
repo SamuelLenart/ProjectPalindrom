@@ -1,0 +1,16 @@
+{
+    "name":"Weather Extention",
+    "version":"0.1.0",
+    "manifest_version": 2,
+    "background":{
+        "page":"./background.html"
+    },
+    "browser_action":{},
+    "options_ui":{
+        "page": "options.html",
+        "chrome_style": true
+    },
+    "permissions":[
+        "storage"
+    ]
+}
